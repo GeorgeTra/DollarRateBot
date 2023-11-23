@@ -30,3 +30,5 @@ python manage.py runserver
 Запуск бота:
 
 python manage.py bot  
+
+________________________
